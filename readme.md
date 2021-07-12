@@ -12,5 +12,5 @@ This project can be used for:
 ✔️ Completing a task.
 
 ## 🚀 Techonologies
-- [Python](https://www.python.org/)
+- Python
 - Django (pip install django)
